@@ -24,7 +24,7 @@ const authConfig = {
   // =================== ROOTS ===================
   "roots": [
     {
-      id: "root", //you can use folderid other than root but then search wont work
+      id: "1fHta6VyIVoT_TOzVod-aXkDTu4U3_xpR", //you can use folderid other than root but then search wont work
       name: "Personal Drive",
 
       /* provide 'username':'password' combinations seperated by commas. 
