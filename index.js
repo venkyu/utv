@@ -35,14 +35,6 @@ const authConfig = {
       // auth: {'username_1' : 'password_1', 'username_2' : 'password_2'},
       protect_file_link: false //true or false
     },
-    {
-      id: "drive_id",
-      name: "Personal Drive II",
-      // To enable password protection, uncomment the below line
-      // auth: {'username_1' : 'password_1', 'username_2' : 'password_2'},
-      protect_file_link: false
-    },
-    // You can add more drives like above
     
   ],
   // =================== END OF ROOTS ===================  <-- DON'T REMOVE THIS LINE
