@@ -43,13 +43,7 @@ const authConfig = {
       protect_file_link: false
     },
     // You can add more drives like above
-    /*{
-        id: "drive_id",
-        name: "Personal Drive II",
-        // To enable password protection, uncomment the below line
-        // auth: {'username_1' : 'password_1', 'username_2' : 'password_2'},
-        protect_file_link: false
-      }, */
+    
   ],
   // =================== END OF ROOTS ===================  <-- DON'T REMOVE THIS LINE
   //Set this to true if you need to let users download files which Google Drive has flagged as a virus
